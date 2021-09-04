@@ -1,0 +1,6 @@
+{
+	"appId": "juan.collaguazo.camera",
+	"appName": "JCameraJuanCollaguazo",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

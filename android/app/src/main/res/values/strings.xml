@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">JCameraJuanCollaguazo</string>
+    <string name="title_activity_main">JCameraJuanCollaguazo</string>
+    <string name="package_name">juan.collaguazo.camera</string>
+    <string name="custom_url_scheme">juan.collaguazo.camera</string>
+</resources>
